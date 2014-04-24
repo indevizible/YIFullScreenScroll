@@ -39,7 +39,7 @@
     
 //    self.fullScreenScroll.shouldHideNavigationBarOnScroll = NO;
 //    self.fullScreenScroll.shouldHideToolbarOnScroll = NO;
-//    self.fullScreenScroll.shouldHideTabBarOnScroll = NO;
+    self.fullScreenScroll.shouldHideTabBarOnScroll = NO;
     
 //    self.fullScreenScroll.additionalOffsetYToStartHiding = 200;
 //    self.fullScreenScroll.additionalOffsetYToStartShowing = 100;
